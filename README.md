@@ -1,4 +1,6 @@
 run project
+<br/>
+<br/>
 1-cp .env.example .env
 2-php artisan key:generate
 3-composer install
