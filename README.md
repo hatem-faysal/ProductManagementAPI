@@ -41,3 +41,5 @@ Documentation:
 <br/>
 4-unite test with users and products.
 <br/>
+5-collection ProductManagementAPI.postman_collection.json in project
+<br/>
