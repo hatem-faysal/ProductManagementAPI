@@ -9,9 +9,11 @@ run project
 <br/>
 4-php artisan migrate:fresh --seed
 <br/>
-5-php artisan test
+5-copy database to ProductManagementAPI_test
 <br/>
-6-php artisan serve
+7-php artisan test
+<br/>
+8-php artisan serve
 <br/>
 
 <br/>
